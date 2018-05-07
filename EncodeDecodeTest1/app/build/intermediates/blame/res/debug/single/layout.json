@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shreyassudheendrarao/Downloads/EncodeDecodeTest1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/shreyassudheendrarao/Downloads/EncodeDecodeTest1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/shreyassudheendrarao/Downloads/EncodeDecodeTest1/app/build/intermediates/res/merged/debug/layout/activity_main2.xml",
+        "source": "/Users/shreyassudheendrarao/Downloads/EncodeDecodeTest1/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Users/shreyassudheendrarao/Downloads/EncodeDecodeTest1/app/build/intermediates/res/merged/debug/layout/activity_parallel_operations.xml",
+        "source": "/Users/shreyassudheendrarao/Downloads/EncodeDecodeTest1/app/src/main/res/layout/activity_parallel_operations.xml"
+    }
+]
